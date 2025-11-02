@@ -30,3 +30,6 @@ This app allows users to input transaction details and instantly predict whether
 
 ## 📦 Dataset used
 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
+
+![Fraud Detection App Screenshot](Screenshot 2025-11-02 195416.png)
+![Fraud Detection App Screenshot](Screenshot 2025-11-02 195452.png)
